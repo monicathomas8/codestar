@@ -32,6 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = [ 
     '8000-monicathomas8-codestar-a52giwca62f.ws.codeinstitute-ide.net', 
     '.herokuapp.com',
+    '8000-monicathomas8-codestar-2q5csnffus7.ws.codeinstitute-ide.net',
     ]
 
 
